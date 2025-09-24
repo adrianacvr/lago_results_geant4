@@ -1,5 +1,10 @@
 
 # LAGO results from Geant4 simulations
+> For more information please contact adrianacvr67@gmail.com
+>
+> Published in Sarmiento-Cano, C., Suárez-Durán, M., Calderón-Ardila, R. et al. Eur. Phys. J. C 82, 1019 (2022).
+>
+> DOI: https://doi.org/10.1140/epjc/s10052-022-10883-z
 
 ## The "make_histograms" folder contains:
 	-The .root files for each site. 
@@ -14,4 +19,3 @@
 
 > Each folder contains a README file where it is explained how the data were extracted and plotted. 
 
-> For more information please contact adrianacvr67@gmail.com
